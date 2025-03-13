@@ -38,4 +38,4 @@ Using Binwalk to extract the hidden files
 
 ![Screenshot 2025-03-13 181526.png](Screenshot_2025-03-13_181526.png)
 
-- Here we go flag{y0u_c4n_s33_m3} :)
+- Here we go - flag{y0u_c4n_s33_m3} :)
