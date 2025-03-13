@@ -13,7 +13,7 @@
 - We get a file named secret which is an image.
 - Ok we got a message here “Hey did you listen to that??”.
 - Use ExifTool to display the meta data.
-- We have a decoded text in the user comments.
+- We have an encoded text in the user comments.
 
 ## Now lets decode the text which seems to be base64 encoded.
 
