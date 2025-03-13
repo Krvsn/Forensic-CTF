@@ -38,5 +38,5 @@ You should now see the challenge landing page.
 ---
 ## **4. Download the Challenge File**
 Click the **"Download Challenge"** button on the webpage to get the challenge file (`secret.zip`).
-**Writeup**: [Click here](https://www.docker.com/get-started)
+**Writeup**: [Click here]([https://www.docker.com/get-started](https://github.com/Krvsn/Forensic-CTF/blob/main/writeup/Solution.md))
 ---
